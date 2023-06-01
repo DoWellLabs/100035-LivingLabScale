@@ -7,8 +7,8 @@ This repository serves as LivingLabScales python package and  WordPress plugins 
 
 - **Important**: Avoid pushing your code directly to the main branch. If you do so, your code will be removed, and you will need to push it again to your branch. Instead, always work on your own branch.
 
-- Before starting the development process, make sure to thoroughly understand the project's API documentation. You can find the documentation file named `APIDocumentation` in the project's repository. You can access it by clicking here, [API DOCUMENTATION](https://github.com/DoWellLabs/LivingLabScales/blob/main/APIDocumentation.md).
-
-- Additional resources, such as a Postman collection, will be made available soon. Please stay tuned for updates on this.
+- Before starting the development process, make sure to thoroughly understand the project's API documentation. You can access it by clicking here, [Dowell API Services](https://github.com/orgs/DoWellUXLab/).
 
 By following these steps, you will ensure that you work on your dedicated branch, understand the API documentation, and collaborate effectively on the project.
+
+If you encounter any issues, have questions, or need assistance with the Geometrical Layout of Big Data API, please contact our support team.
